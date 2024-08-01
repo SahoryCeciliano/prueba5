@@ -1,0 +1,41 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Servicio de comedor",
+            "descripcion": "Te brindamos un ambiente acogedor y decorativo para una experiencia gastronómica agradable, el cual cuenta con sillas y mesas para mayor comodidad de nuestros clientes.",
+            "imagen": "img/servicios/Screenshot_20240703_113513~2.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Entrega a Domicilio",
+            "descripcion": "Se ofrece el servicio de pedidos por llamada o Whatsapp para mayor comodidad del cliente. Dando como resultado una entrega rápida y eficiente.",
+            "imagen": "img/servicios/Screenshot_20240703_113737~2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Pedidos para Llevar",
+            "descripcion": "Brindamos la opción para que nuestros clientes hagan sus pedidos y los recojan en el local. Es importante mencionar que se cuenta con un estacionamiento conveniente para recogida rápida.",
+            "imagen": "img/servicios/Screenshot_20240703_113422~2.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Menú variado",
+            "descripcion": "Variedad de pizzas con diferentes combinaciones de ingredientes. También contamos con distintos platos como pollo, ensalada, sándwich, papas, nachos entre otros.",
+            "imagen": "img/servicios/Screenshot_20240703_113401~2.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Opciones de Personalización",
+            "descripcion": "Posibilidad de personalizar pizzas según las preferencias de nuestro cliente. Algunas de las opciones que ofrecemos son: masa (delgada, gruesa, sin gluten) y diversos tipos de salsas y coberturas. También está la posibilidad de modificar alguno de nuestros otros menús.",
+            "imagen": "img/servicios/Screenshot_20240703_113702~2.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Ambiente Familiar y Seguro",
+            "descripcion": "Ambiente cómodo y seguro para todos los clientes. Contamos con espacios adaptados para niños y personas con alguna incapacidad para que sean lugares cómodos para ellos.",
+            "imagen": "img/servicios/Screenshot_20240703_113430~2.jpg"
+        }
+    ]
+}
+

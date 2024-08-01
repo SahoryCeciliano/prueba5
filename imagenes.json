@@ -1,0 +1,79 @@
+{
+    "imagenes": [
+        {
+            "id": 1,
+            "src": "img/imagenes/FB_IMG_1720112007837.jpg",
+            "alt": "foto 1"
+        },
+        {
+            "id": 2,
+            "src": "img/imagenes/FB_IMG_1720112011602.jpg",
+            "alt": "foto 2"
+        },
+        {
+            "id": 3,
+            "src": "img/imagenes/FB_IMG_1720112017391.jpg",
+            "alt": "foto 3"
+        },
+        {
+            "id": 4,
+            "src": "img/imagenes/FB_IMG_1720112020915.jpg",
+            "alt": "foto 4"
+        },
+        {
+            "id": 5,
+            "src": "img/imagenes/FB_IMG_1720112023932.jpg",
+            "alt": "foto 5"
+        },
+        {
+            "id": 6,
+            "src": "img/imagenes/FB_IMG_1720112028352.jpg",
+            "alt": "foto 6"
+        },
+        {
+            "id": 7,
+            "src": "img/imagenes/FB_IMG_1720112031492.jpg",
+            "alt": "foto 7"
+        },
+        {
+            "id": 8,
+            "src": "img/imagenes/FB_IMG_1720112033132.jpg",
+            "alt": "foto 8"
+        },
+        {
+            "id": 9,
+            "src": "img/imagenes/FB_IMG_1720112036724.jpg",
+            "alt": "foto 9"
+        },
+        {
+            "id": 10,
+            "src": "img/imagenes/FB_IMG_1720112095432.jpg",
+            "alt": "foto 10"
+        },
+        {
+            "id": 11,
+            "src": "img/imagenes/FB_IMG_1720112622501.jpg",
+            "alt": "foto 11"
+        },
+        {
+            "id": 12,
+            "src": "img/imagenes/FB_IMG_1720112615659.jpg",
+            "alt": "foto 12"
+        },
+        {
+            "id": 13,
+            "src": "img/imagenes/FB_IMG_1720112639437.jpg",
+            "alt": "foto 13"
+        },
+        {
+            "id": 14,
+            "src": "img/imagenes/FB_IMG_1720112634005.jpg",
+            "alt": "foto 14"
+        },
+        {
+            "id": 15,
+            "src": "img/imagenes/FB_IMG_1720112622501.jpg",
+            "alt": "foto 15"
+        }
+    ]
+}
